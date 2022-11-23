@@ -1,1 +1,1 @@
-My jouney to learning Rust and building on the Solana Network
+My journey to learning Rust and building on the Solana Network
